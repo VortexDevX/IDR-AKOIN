@@ -39,9 +39,6 @@ The implementation includes all required parts:
 - `assets/idr-logo-full.svg`  
   Full logo lockup (icon + wordmark).
 
-- `note.txt`  
-  Short logo rationale (colour, symbolism, typography intent).
-
 ## Design Notes
 
 - **Visual direction:** dark, modern, professional UI with orange accents.
