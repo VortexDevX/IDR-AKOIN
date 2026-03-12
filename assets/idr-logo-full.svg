@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90" role="img" aria-label="IDR - Institute of Digital Risk">
+  <title>IDR Full Logo</title>
+  <desc>Minimal isometric cube with IDR wordmark.</desc>
+
+  <g transform="translate(6,4)">
+    <polygon points="44,6 78,26 44,46 10,26" fill="#FF6B1A" />
+    <polygon points="10,26 44,46 44,80 10,60" fill="#101317" />
+    <polygon points="78,26 78,60 44,80 44,46" fill="#CC4A00" />
+  </g>
+
+  <text x="98" y="42" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="800" fill="#FFFFFF">IDR</text>
+  <line x1="98" y1="50" x2="212" y2="50" stroke="#FF6B1A" stroke-width="2" />
+  <text x="98" y="66" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="0.1em" fill="#BEBEBE">INSTITUTE OF DIGITAL RISK</text>
+</svg>
