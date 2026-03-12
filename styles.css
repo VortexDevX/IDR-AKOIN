@@ -373,16 +373,20 @@ header nav a:hover::after {
   right: 0;
   width: 280px;
   height: 100vh;
-  background:
-    linear-gradient(180deg, rgba(15, 15, 15, 0.98), rgba(26, 26, 26, 0.98));
+  background: linear-gradient(
+    180deg,
+    rgba(15, 15, 15, 0.98),
+    rgba(26, 26, 26, 0.98)
+  );
   z-index: 850;
   flex-direction: column;
   padding: calc(var(--nav-height) + var(--space-6)) var(--space-8)
     var(--space-8);
   transform: translateX(100%);
-  transition: transform var(--transition-slow);
+  transition: transform var(--transition-base);
   border-left: 1px solid var(--color-border);
   box-shadow: -24px 0 48px rgba(0, 0, 0, 0.55);
+  will-change: transform;
 }
 
 .mobile-nav.open {
